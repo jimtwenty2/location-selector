@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ```bash
 git clone https://github.com/jimtwenty2/location-selector.git
-cd final-project-testing
+cd location-selector
 ```
 
 ### 2. Install Dependencies
