@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jimtwenty2/location-selector.git
 cd final-project-testing
 ```
 

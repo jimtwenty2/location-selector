@@ -183,7 +183,7 @@ function LocationSelect({
           />
         </SelectTrigger>
 
-        <SelectContent>
+        <SelectContent className="max-h-32 overflow-y-auto">
           {options.length === 0 ? (
             <div className="p-2 text-sm text-gray-500">
               No options available
