@@ -44,3 +44,17 @@ You should see the **Location Selector** component with Province, District, Comm
 - If the API is not configured or unreachable, you'll see an error message
 - The component will gracefully handle the failure and show "No data available"
 - Check the browser console for detailed error logs
+
+## Component Overview
+
+### Location Selector
+
+#### Preview
+
+![Location Selector Component](./public/screenshots/location-selector.png)
+
+#### Error state (example)
+
+![Error Example](./public/screenshots/error.png)
+
+The Location Selector component provides a cascading dropdown interface with automatic fallback when the API is unavailable.
